@@ -2,8 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Junuuuuuu&fontSize=90)
   
-####  :wave: Welcome my github profile !!!
-
+<img alt="Snake Gif" src="https://github.com/jakkujakku/jakkujakku/blob/output/github-contribution-grid-snake.svg" />
   
  <br/>
  <br/>
@@ -15,7 +14,7 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"></a>
  
    <br/>
    <br/>
