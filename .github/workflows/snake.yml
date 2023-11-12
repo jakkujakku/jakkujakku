@@ -1,5 +1,4 @@
 # 커밋 먹는 뱀 그래프 생성을 위한 GitHub Action🐍
-![snake gif](https://github.com/jakkujakku/jakkujakku/blob/output/github-contribution-grid-snake.svg)
 
 name: Generate Snake
 
@@ -23,7 +22,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: [jakkujakku]
+          github_user_name: ![snake gif](https://github.com/jakkujakku/jakkujakku/blob/output/github-contribution-grid-snake.svg)
           # output branch에 gif, svg를 각각 생성
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -34,7 +33,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.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}}
+          github_token: ${{ secrets.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}}
           branch: master
           force: true
 
@@ -43,4 +42,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
