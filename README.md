@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Junuuuuuu&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:a82da8,100:FFFFFF&height=300&section=header&text=Junuuuuuu&fontSize=90)
   
 <img alt="Snake Gif" src="https://github.com/jakkujakku/jakkujakku/blob/output/github-contribution-grid-snake.svg" />
   
