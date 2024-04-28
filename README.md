@@ -1,19 +1,24 @@
 
 <div align="leading"> 
   
-# 안녕하세요. 🐿️ 준우 입니다.
+# 안녕하세요. 🐿️ iOS 개발자 준우 입니다.
+- 🌰새로운 기술에 관심이 많아요. 
+- 🌰궁금한 것이 생기면 이해가 될 때까지 보는 편이에요.
 
-### 현재 SwiftUI 학습중...30%
+### 현재 학습하고 있는 것
+- 🌰SwiftUI Custom Animation
+- 🌰Combine Input/Output 패턴
 
 <br/>
 
 ## Tech Stacks
 | 분류                            | 기술                                 |
 |---------------------------------|--------------------------------------|
-| Language                        | <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=Python&logoColor=python">                               |
-| Collaboration tool              | <img src="https://img.shields.io/badge/Github-330033?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Git-FF3333?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Fastlane-FFFFFF?style=for-the-badge&logo=Fastlane&logoColor=blue"> <img src="https://img.shields.io/badge/Slack-FFFFFF?style=for-the-badge&logo=Slack&logoColor=green"> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black">                               |
-| IDE                             | <img src="https://img.shields.io/badge/Xcode-3366FF?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=VisualStudioCode&logoColor=blue">                 |
+| Language                        | <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">                               |
+| Tools                             | <img src="https://img.shields.io/badge/Xcode-3366FF?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=VisualStudioCode&logoColor=blue"> <img src="https://img.shields.io/badge/Sourcetree-3366FF?style=for-the-badge&logo=Sourcetree&logoColor=white">                 |
 | DB                              | <img src="https://img.shields.io/badge/Xcode-3366FF?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=Firebase&logoColor=yellow">                               |
+| Configuration Management              | <img src="https://img.shields.io/badge/Github-330033?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Git-FF3333?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Fastlane-FFFFFF?style=for-the-badge&logo=Fastlane&logoColor=blue">                               |
+| Collaboration tool              |  <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black">                               |
   
 <br/>
 
