@@ -7,6 +7,7 @@
 
 ### 현재 학습하고 있는 것
 - 🌰SwiftUI Custom Animation
+- 🌰Flutter
 - ⛔️🚧 RGRG 프로젝트 공사중 🚧⛔️
 
 <br/>
