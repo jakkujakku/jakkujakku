@@ -5,9 +5,10 @@
 - 🌰새로운 기술에 관심이 많아요. 
 - 🌰궁금한 것이 생기면 이해가 될 때까지 보는 편이에요.
 
-### 현재 학습하고 있는 것
-- 🌰SwiftUI Custom Animation
-- 🌰Flutter
+### 현재 보강 중
+- 🌰🌰🌰SwiftUI Custom Animation
+- 🌰🌰Flutter
+- 🌰Python
 - ⛔️🚧 RGRG 프로젝트 공사중 🚧⛔️
 
 <br/>
