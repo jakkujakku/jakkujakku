@@ -2,13 +2,16 @@
 <div align="leading"> 
   
 # 안녕하세요. 🐿️ iOS 개발자 준우 입니다.
-- 🌰새로운 기술에 관심이 많아요. 
-- 🌰궁금한 것이 생기면 이해가 될 때까지 보는 편이에요.
+- 🌰새로운 것을 배우는 것에 거부감이 없습니다.
+- 🌰크로스 플랫폼에 관심이 많습니다.
+- 🌰Clean Architecture에 관심이 있으며, 프로젝트에 도입하기 위해 공부하고 있습니다.
+- 🌰고도화된 프로젝트를 만드는 것이 목표입니다. 
 
 ### 현재 보강 중
 - 🌰🌰🌰SwiftUI Custom Animation
-- 🌰🌰Flutter
-- 🌰Python
+- 🌰🌰🌰Swift Clean Architecture
+- 🌰🌰Flutter - Beginners
+- 🌰Python - Beginners
 - ⛔️🚧 RGRG 프로젝트 공사중 🚧⛔️
 
 <br/>
@@ -16,7 +19,7 @@
 ## Tech Stacks
 | 분류                            | 기술                                 |
 |---------------------------------|--------------------------------------|
-| Language                        | <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">                               |
+| Language                        | <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-3366FF?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=white">                              |
 | Tools                             | <img src="https://img.shields.io/badge/Xcode-3366FF?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-FFFFFF?style=for-the-badge&logo=VisualStudioCode&logoColor=blue"> <img src="https://img.shields.io/badge/Sourcetree-3366FF?style=for-the-badge&logo=Sourcetree&logoColor=white">                 |
 | DB                              | <img src="https://img.shields.io/badge/Xcode-3366FF?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=Firebase&logoColor=yellow">                               |
 | Configuration Management              | <img src="https://img.shields.io/badge/Github-330033?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Git-FF3333?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Fastlane-FFFFFF?style=for-the-badge&logo=Fastlane&logoColor=blue">                               |
