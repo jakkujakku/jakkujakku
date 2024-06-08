@@ -7,9 +7,9 @@
 - 🌰고도화된 프로젝트를 만드는 것이 목표입니다. 
 
 ### 현재 보강 중
-- 🌰🌰🌰SwiftUI Custom Animation
-- 🌰🌰🌰Swift Clean Architecture
-- 🌰Python - Beginners
+- 🌰🌰🌰UIKit 보강 중
+- 🌰🌰🌰Objective-C 개념 공부 중
+- 🌰Python 공부 중
 - ⛔️🚧 RGRG 프로젝트 공사중 🚧⛔️
 
 <br/>
