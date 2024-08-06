@@ -1,20 +1,14 @@
 
 <div align="leading"> 
   
-# 안녕하세요. 🐿️ iOS 개발자 준우 입니다.
-- 🌰 기본기를 중요시하고, 새로 배우는 것에 거부감이 없습니다.
-- 🌰 프로젝트의 기능을 안정적으로 구현하는 것에 중점을 두고 있습니다.
-- 🌰 프로젝트 모듈화 / 배포 및 테스트 자동화 처리하는 것을 목표로 하고 있습니다.
-
-### 현재 보강 중
-- 🌰🌰🌰 UIKit 보강 중
-- 🌰🌰 Objective-C 개념 공부 중
-- 🌰 Python 공부 중
-- ⛔️🚧 RGRG 프로젝트 공사중 🚧⛔️
+### 🐿️ 안녕하세요. 준우입니다.
+- 🌰 Rx에 대해서 공부하고, 기존 프로젝트에 적용하고 있어요.
+- 🌰🌰 Kotlin 에 대해서 공부하고 있어요.
+- 🌰🌰🌰 UI와 UX에 대해 공부하면서, 신규 프로젝트에 적용 중에 있어요.
 
 <br/>
 
-## Tech Stacks
+### Tech Stacks
 | 분류                            | 기술                                 |
 |---------------------------------|--------------------------------------|
 | Language                        | <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=white">                              |
